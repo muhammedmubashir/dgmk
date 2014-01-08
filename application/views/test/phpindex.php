@@ -1,0 +1,9 @@
+<?php include('header.php'); ?>
+<?php include('body_head.php'); ?>
+<?php include('slider.php'); ?><hr>
+<?php //include('services.php'); ?><hr>
+<?php include('aboutus.php'); ?>
+<?php include('latest_post.php'); ?><hr>
+<?php //include('latest_projects.php'); ?><hr>
+<?php //include('clients.php'); ?></section>
+<?php include('footer.php'); ?>

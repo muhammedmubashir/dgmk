@@ -1,0 +1,204 @@
+.system_messages {
+    margin: 0px;
+    padding: 15px 15px 15px 15px;
+    width: 740px;
+}
+
+.system_messages li {
+    list-style:none;
+    padding: 6px 20px 6px 38px;
+    font-size: 11px;
+    text-align: left;
+    position: relative;
+    top: 0;
+    left: 0;
+    min-height: 1px;
+    list-style-position: none; 
+}
+
+.white {                        
+    background: #fefefe url(../images/white_message.gif) repeat-x;
+    border: 1px solid #dbdbdb;
+    
+    
+}
+
+.system_title {
+    font-size: 11px;
+}
+
+.ico {
+    display: block;
+    width: 23px;
+    height: 23px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: absolute;
+    left: 4px;
+    top: 1px;
+    
+}
+
+.white .system_title {
+    color: #4f4f4f;
+}
+
+.white .ico {
+    background-image:url(../images/white_ico.png);
+}
+
+.red {
+    background: #e2c5c5 url(../images/red_message.gif) repeat-x;
+    border: 1px solid #cf9e9e;
+    
+}
+
+.red .system_title {
+    color: #ae2727;
+}
+
+.red .ico {
+    background-image:url(../images/red_ico.png);
+}
+
+
+
+/*.blue {
+    background: #c4dde3 url(../images/blue_message.gif) repeat-x;
+    border: 1px solid #9cc6d0;
+    
+}
+
+.blue .system_title {
+    color: #0f4b74;
+}
+
+.blue .ico {
+    background-image:url(../images/blue_ico.png);
+}
+*/
+.green {
+    background: #D21034 repeat-x;
+    
+    
+}
+
+.green .system_title {
+    color: #386d19;
+}
+
+.green .ico 
+{
+    background-image:url(../images/green_ico.png);
+}
+
+.yellow {
+    background: #eae1b1 url(../images/yellow_message.gif) repeat-x;
+    border: 1px solid #e0d182;
+    
+}
+
+.yellow .system_title {
+    color: #675918;
+}
+
+.yellow .ico {
+    background-image:url(../images/yellow_ico.png);
+}
+
+.filter_form {    padding:5px;  }
+
+.filter_form fieldset div {
+    margin:0.3em 0;
+    clear:both;
+
+}
+
+.filter_form form {
+    margin:1em;
+}
+
+.filter_form label {
+    float:left;  
+    width:10em;
+    text-align:right;  
+    margin-right:1em;
+}
+
+
+
+.filter_form legend {
+    color:#ff9900;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size:1em;
+}
+
+.filter_form .lbl{  
+    font-weight: bolder;
+}
+
+.filter_form legend span {
+    width:10em;
+    text-align:right;
+}
+
+.filter_form input {
+    padding:0.15em;
+    width:100px;
+    border:1px solid #ddd;
+    background:#fafafa;
+    font:bold 0.95em arial, sans-serif;
+    -moz-border-radius:0.4em;
+    -khtml-border-radius:0.4em;
+}
+
+.filter_form .btn {
+    cursor: pointer;
+    color:#FFF;
+    background: #50acd6;
+}
+
+.filter_form .btn:hover {
+  background-color: #6a97a7;
+    color:#FFF;    
+}
+
+
+.filter_form select{
+    width:200px;
+    font-size:11px;
+    padding:2px;
+}
+
+.filter_form select:hover
+{
+    background:#ffff99;   
+}
+
+.filter_form .small{width:60px;}
+#order_direction {width:60px;}
+
+.filter_form input.default {
+    color:#bbb;
+}
+
+.filter_form input:hover, input:focus {
+    border-color:#c5c5c5;
+    background:#ffff99;
+} 
+
+.filter_form fieldset {
+    border:1px solid #c0c0c0;
+    padding:0 0.5em 0.5em;
+    background: #fff;
+}
+
+.filter_form .text {
+
+    width: 200px;
+}
+
+.tip_text{font-size:11px; color:#666;}
+.editable_text_input{width:560px;}
+    

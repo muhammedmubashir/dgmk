@@ -1,0 +1,1634 @@
+# Webalizer V2.20-01 Incremental Data - 07/29/2013 01:20:18
+2013 7 29 1 20 18
+5608 4083 210 279 62 97 180838683 701 124 0
+2 1 497 1 29
+1 1 37 1 0 0
+77 31 349530 6 2 2
+5 5 148 4 1 1
+11 6 48388 4 2 2
+42 37 441128 4 11 2
+7 7 222 6 1 1
+45 38 1008809 4 2 1
+8 8 24173 6 2 2
+157 125 2434588 6 24 2
+84 78 397652 6 2 2
+137 129 2507187 9 9 5
+110 104 1764504 7 8 5
+255 197 4113053 7 31 6
+70 67 1320346 7 2 2
+1180 869 91192137 33 223 12
+180 130 11607775 8 24 6
+133 114 1391007 11 15 6
+38 33 374466 6 7 3
+33 32 323055 4 1 1
+103 96 1863844 9 7 3
+34 33 346285 7 2 2
+460 306 6082099 10 100 6
+293 179 3181016 5 40 5
+263 169 3568090 11 22 6
+973 623 28826082 32 85 22
+348 287 6840548 22 19 7
+397 298 9156452 31 47 8
+161 78 1652249 6 11 3
+3 3 23813 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+67 47 1139733 7
+209 129 2203089 27
+217 179 4402458 24
+163 106 3602150 31
+414 332 8823999 99
+970 690 16870094 163
+479 279 5814238 80
+225 108 66102888 39
+281 262 7406840 11
+126 93 1886880 6
+141 118 4684136 10
+66 63 1331285 3
+186 163 3668586 23
+391 218 14079673 27
+372 260 9614670 38
+279 184 4008263 20
+167 147 3052698 18
+205 176 3426595 24
+186 143 11529711 13
+159 105 2644406 17
+131 117 1534191 8
+95 93 2114007 5
+7 7 24165 2
+72 64 873928 6
+0
+0
+0
+4083
+0
+0
+0
+0
+0
+86
+0
+1
+0
+0
+500
+0
+0
+20
+0
+0
+30
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+885
+0
+0
+0
+0
+0
+# -urls- 
+/images/assets/scripts/cleditor/jquery.cleditor.css
+0 2 0 2796 0 0
+/player/js/jplayer/jquery.jplayer.min.js
+0 1 0 44563 0 0
+/player/img/logo.png
+0 1 0 4938 0 0
+/images/assets/scripts/colorbox/colorbox.css
+0 2 0 9378 0 0
+/images/assets/scripts/cleditor/jquery.cleditor.min.js
+0 2 0 24142 0 0
+/css/html5-reset.css
+0 106 0 443754 0 0
+/home/artical
+0 15 0 255996 0 0
+/player/img/icons/14x14/plus.png
+0 1 0 2854 0 0
+/
+0 283 0 6570662 66 9
+/player/js/dateRangepicker/daterangepicker.jQuery.js
+0 1 0 14171 0 0
+/images/assets/scripts/jquery.placeholder.1.2.min.shrink.js
+0 2 0 2180 0 0
+/images/assets/images/header/nav-bg.png
+0 2 0 1856 0 0
+/js/ie.js
+0 117 0 20889 0 0
+/images/assets/scripts/demo.js
+0 2 0 26944 0 0
+/player/img/icons/14x14/calendar.png
+0 1 0 2889 0 0
+/player/img/icons/14x14/member2.png
+0 1 0 2868 0 0
+/combo_box/select2x2.png
+0 1 0 845 0 0
+/player/css/bootstrap-responsive.css
+0 1 0 21751 0 0
+/admin
+0 3 0 15 0 0
+/player/img/forms/radiosActive.png
+0 1 0 5012 0 0
+/images/assets/scripts/jquery.tablesorter-update.js
+0 1 0 29721 0 0
+/player/js/general.js
+0 1 0 17718 0 0
+/images/assets/scripts/asmselect/jquery.asmselect.css
+0 1 0 1076 0 0
+/home/contact
+0 14 0 262204 0 0
+/images/favicon.png
+0 76 0 36328 0 0
+/player/js/formWizard/jquery.validate.js
+0 1 0 38269 0 0
+/images/assets/scripts/formvalidator/validationEngine.jquery.css
+0 4 0 9280 0 0
+/images/assets/scripts/google/jquery-ui.min.js
+0 1 0 201875 0 0
+/player/img/icons/14x14/light/list.png
+0 1 0 2854 0 0
+/player/js/flot/excanvas.min.js
+0 1 0 19415 0 0
+/images/assets/scripts/muse.js
+0 2 0 1262 0 0
+/img/naat/15.mp3
+0 15 0 13062862 0 0
+/images/assets/styles/uploadify.css
+0 1 0 1740 0 0
+/images/assets/scripts/fullcalendar/fullcalendar.min.js
+0 2 0 99800 0 0
+/player/js/ibutton/jquery.ibutton.js
+0 1 0 14640 0 0
+/player/img/icons/14x14/trash.png
+0 1 0 2853 0 0
+/js/modernizr.custom.js
+0 119 0 1556006 0 0
+/images/slider/arrows.png
+0 44 0 41496 0 0
+/images/assets/scripts/ajax_functions.js
+0 2 0 20812 0 0
+/js/ddlevelsmenu.js
+0 118 0 1932400 0 0
+/player/img/icons/14x14/random.png
+0 1 0 2889 0 0
+/player/img/menuIcons/expandIconNobar.png
+0 1 0 2836 0 0
+/player/css/plugins/tipsy.css
+0 1 0 2085 0 0
+/player/js/bootstrap.min.js
+0 1 0 25766 0 0
+/home/books/portfolio-item-image.html
+0 1 0 15669 0 0
+/player/img/icons/14x14/list.png
+0 1 0 2853 0 0
+/player/css/buttons/buttons.css
+0 1 0 20824 0 0
+/images/assets/images/header/header_bg.png
+0 2 0 1832 0 0
+/images/slider/slides/940x400/al-mustafa-trust-hyderabad.jpg
+0 60 0 7532898 0 0
+/img/naat/9.mp3
+0 1 0 2412932 0 0
+/js/custom.js
+0 120 0 4091628 0 0
+/img/naat/14.mp3
+0 6 0 1351703 0 0
+/books/book_front_page/7.jpg
+0 5 0 49260 0 0
+/images/assets/scripts/colorbox/images/border.png
+0 2 0 224 0 0
+/images/assets/scripts/google/jquery.min.js
+0 1 0 91668 0 0
+/player/js/jplayer/jplayer.playlist.min.js
+0 1 0 8577 0 0
+/player/img/menuIcons/expandIconNoise.png
+0 1 0 2849 0 0
+/player/css/plugins/jquery.plupload.queue.css
+0 1 0 4882 0 0
+/images/assets/scripts/colorpicker/colorpicker.js
+0 2 0 33384 0 0
+/player/js/fullcalendar/fullcalendar.js
+0 1 0 124633 0 0
+/player/img/player/resize.png
+0 1 0 4348 0 0
+/player/img/player/previous.png
+0 1 0 4103 0 0
+/home/main
+0 28 0 639219 0 0
+/player/js/dashboard.js
+0 1 0 12853 0 0
+/player/js/forms.js
+0 1 0 11208 0 0
+/player/img/glyphicons-halflings.png
+0 1 0 12799 0 0
+/player/css/general.css
+0 1 0 74944 0 0
+/player/img/icons/14x14/light/lock3.png
+0 1 0 2889 0 0
+/images/assets/styles/style.css
+0 2 0 48410 0 0
+/player/img/icons/14x14/envlope1.png
+0 1 0 2863 0 0
+/js/tinynav.min.js
+0 117 0 244827 0 0
+/images/block-16.png
+0 6 0 21114 0 0
+/img/naat/8.mp3
+0 2 0 3587186 0 0
+/img/naat/13.mp3
+0 1 0 1471401 0 0
+/player/img/player/volumeIcon2.png
+0 1 0 2875 0 0
+/books/book_front_page/6.jpg
+0 3 0 12510 0 0
+/player/img/player/playButton.png
+0 1 0 5963 0 0
+/player/img/player/repeatOn.png
+0 1 0 4310 0 0
+/css/tipsy.css
+0 108 0 191464 0 0
+/player/js/globalize/globalize.js
+0 1 0 45719 0 0
+/player/js/uniform/jquery.uniform.js
+0 1 0 19585 0 0
+/player/js/flot/jquery.flot.pie.min.js
+0 1 0 8862 0 0
+/images/bullets/list-arrow.png
+0 1 0 1022 0 0
+/player/css/plugins/jplayer.css
+0 1 0 12857 0 0
+/player/img/icons/14x14/cog2.png
+0 1 0 2902 0 0
+/player/img/player/pause.png
+0 1 0 4541 0 0
+/images/assets/scripts/superfish/superfish.css
+0 2 0 5392 0 0
+/player/img/forms/checkbox.png
+0 1 0 4043 0 0
+/img/naat/7.mp3
+0 12 0 8003487 0 0
+/img/naat/12.mp3
+0 1 0 2210222 0 0
+/books/book_front_page/5.jpg
+0 4 0 18532 0 0
+/images/tick-16.png
+0 6 0 19890 0 0
+/js/jquery-1.8.2.min.js
+0 119 0 9414185 0 0
+/home/books/1
+0 4 0 66980 0 0
+/home/books/2
+0 2 0 38498 0 0
+/home/books/3
+0 4 0 72312 0 1
+/home/books/4
+0 1 0 18709 0 0
+/home/books/5
+0 5 0 90263 0 1
+/home/books/6
+0 5 0 92115 0 0
+/player/img/player/stop.png
+0 1 0 4537 0 0
+/images/assets/styles/global.css
+0 2 0 6542 0 0
+/home/books/index-2.html
+0 1 0 15669 0 0
+/player/js/antiscroll/jquery-mousewheel.js
+0 1 0 2401 0 0
+/css/jquery.fancybox.css
+0 106 0 437435 0 0
+/player/img/ajaxLoader/14x14/loader01.gif
+0 1 0 1414 0 0
+/images/scroll-top.png
+0 182 0 175224 0 0
+/player/js/formWizard/jquery.form.js
+0 1 0 20805 0 0
+/images/assets/styles/config.css
+0 2 0 2426 0 0
+/css/responsive.css
+0 118 0 566500 0 0
+/img/naat/6.mp3
+0 28 0 21501509 0 0
+/img/naat/11.mp3
+0 1 0 2371136 0 0
+/player/player.html
+0 1 0 36371 0 0
+/player/img/icons/14x14/volume4.png
+0 1 0 2854 0 0
+/books/book_front_page/4.jpg
+0 1 0 9386 0 0
+/player/js/mask/jquery.maskedinput-1.3.js
+0 1 0 6822 0 0
+/player/img/topBar/dropArrow.png
+0 1 0 2914 0 0
+/images/assets/scripts/timepicker_addon/jquery-ui-timepicker-addon.css
+0 1 0 349 0 0
+/player/css/bootstrap.css
+0 1 0 131912 0 0
+/player/css/colors/noise-red.css
+0 1 0 7624 0 0
+/js/jquery.jcarousel.min.js
+0 117 0 1549350 0 0
+/combo_box/select2.css
+0 60 0 1008273 0 0
+/home/artical_detail/1
+0 3 0 53481 0 0
+/home/naat_catg/1
+0 10 0 28703 0 0
+/home/naat_catg/2
+0 5 0 12743 0 0
+/combo_box/select2.png
+0 25 0 12873 0 0
+/images/assets/scripts/asmselect/jquery.asmselect.js
+0 1 0 11759 0 0
+/css/shortcodes.css
+0 107 0 1089270 0 0
+/images/assets/scripts/uploadify/uploadify.js
+0 1 0 7538 0 0
+/img/naat/5.mp3
+0 4 0 8042903 0 0
+/js/jquery.easing.1.3.js
+0 118 0 809700 0 0
+/player/img/glyphicons-halflings-white.png
+0 1 0 8777 0 0
+/img/naat/10.mp3
+0 1 0 2201863 0 0
+/css/system_messages.css
+0 2 0 7384 0 0
+/images/slider/nav.png
+0 45 0 47310 0 0
+/books/book_front_page/3.jpg
+0 3 0 15883 0 0
+/images/assets/images/header/menu_hover.png
+0 1 0 1701 0 0
+/player/img/icons/14x14/printer2.png
+0 1 0 2888 0 0
+/css/style.css
+0 108 0 3425531 0 0
+/player/js/scrollbar/jquery.mCustomScrollbar.js
+0 1 0 39878 0 0
+/images/assets/scripts/tiny_mce/tiny_mce.js
+0 1 0 231077 0 0
+/images/assets/scripts/colorbox/images/loading.gif
+0 2 0 17444 0 0
+/player/js/dataTable/jquery.dataTables.js
+0 1 0 377508 0 0
+/images/assets/images/header/topnav/separator.png
+0 1 0 938 0 0
+/images/entries/full-size/inner-mazar-dr-ghulam-mustafa-khan-sahab-ra.jpg
+0 56 0 9445870 0 0
+/css/colors/blue.css
+0 11 0 33300 0 0
+/player/img/patterns/pattern09.png
+0 1 0 2997 0 0
+/player/css/plugins/jquery.ibutton.css
+0 1 0 4901 0 0
+/images/assets/scripts/jquery.validate.js
+0 1 0 35352 0 0
+/robots.txt
+0 144 0 5328 0 0
+/combo_box/select2.js
+0 59 0 5702156 0 0
+/img/naat/4.mp3
+0 5 0 5633203 0 0
+/player/img/icons/14x14/light/resize3.png
+0 1 0 2885 0 0
+/player/js/formWizard/jquery.form.wizard.js
+0 1 0 14327 0 0
+/books/book_front_page/2.jpg
+0 6 0 37220 0 0
+/player/img/icons/14x14/cog.png
+0 1 0 2894 0 0
+/player/css/plugins/chosen.css
+0 1 0 12757 0 0
+/player/img/patterns/pattern08.png
+0 1 0 2900 0 0
+/images/assets/scripts/uploadify/flash_detect_min.js
+0 1 0 3063 0 0
+/images/assets/scripts/jqueryui/images/ui-icons_454545_256x240.png
+0 1 0 4369 0 0
+/css/flexslider.css
+0 106 0 490034 0 0
+/images/assets/scripts/colorbox/images/controls.png
+0 2 0 2498 0 0
+/player/img/icons/24x24/grid.png
+0 1 0 2860 0 0
+/js/popup.js
+0 117 0 56430 0 0
+/img/naat/3.mp3
+0 3 0 6084662 0 0
+/images/assets/images/header/topnav/downarrow.png
+0 1 0 952 0 0
+/player/img/icons/14x14/upload4.png
+0 1 0 2882 0 0
+/images/assets/scripts/fullcalendar/gcal.js
+0 2 0 5556 0 0
+/player/js/ui/jquery-ui-1.9.2.custom.js
+0 1 0 450133 0 0
+/books/book_front_page/1.jpg
+0 5 0 48275 0 0
+/images/cancel.png
+0 127 0 412927 0 0
+/images/assets/scripts/overlay.js
+0 1 0 835 0 0
+/player/css/plugins/ui/jquery-ui.css
+0 1 0 50004 0 0
+/images/assets/scripts/fullcalendar/fullcalendar.print.css
+0 2 0 2676 0 0
+/player/img/forms/selectArrow.png
+0 1 0 3030 0 0
+/player/js/formWizard/bbq.js
+0 1 0 43249 0 0
+/images/assets/scripts/native.cookie.js
+0 2 0 1158 0 0
+/player/css/plugins/jquery.fancybox.css
+0 1 0 3966 0 0
+/player/img/patterns/pattern07.png
+0 1 0 2884 0 0
+/img/articals/3.jpg
+0 8 0 10896 0 0
+/images/assets/scripts/jqueryui/images/ui-icons_222222_256x240.png
+0 1 0 4369 0 0
+/player/preview/preview02.jpg
+0 1 0 416054 0 0
+/player/img/navBg.png
+0 1 0 2902 0 0
+/images/assets/scripts/jquery.dataTables.min.js
+0 2 0 141886 0 0
+/player/img/bubbleButton.png
+0 1 0 32923 0 0
+/img/naat/2.mp3
+0 3 0 6844846 0 0
+/player/img/player/play.png
+0 1 0 4655 0 0
+/player/css/plugins/jquery.dataTables.css
+0 1 0 8190 0 0
+/images/assets/styles/columnal/columnal.css
+0 2 0 30830 0 0
+/player/js/cookie/jquery.cookie.js
+0 1 0 1839 0 0
+/player/img/icons/14x14/light/layoutLeft.png
+0 1 0 2854 0 0
+/images/entries/full-size/mazar-dr-ghulam-mustafa-khan-sahab-ra.jpg
+0 57 0 9321710 0 0
+/home/naat
+0 72 0 1824162 3 4
+/images/logo.png
+0 115 0 572188 0 0
+/js/jquery.tipsy.js
+0 119 0 988487 0 0
+/player/img/patterns/pattern06.png
+0 1 0 5442 0 0
+/player/js/sparklines/jquery.sparkline.js
+0 1 0 122355 0 0
+/player/img/player/next.png
+0 1 0 4109 0 0
+/player/js/flot/jquery.flot.orderBars.js
+0 1 0 6038 0 0
+/img/articals/2.jpg
+0 8 0 11436 0 0
+/player/preview/preview01.jpg
+0 1 0 416884 0 0
+/img/cat_naat_bayan.php
+0 16 0 2238 0 0
+/img/naat/1.mp3
+0 2 0 4229018 0 0
+/player/img/icons/14x14/light/cog.png
+0 1 0 2898 0 0
+/books/book_front_page/
+0 3 0 4605 0 0
+/images/assets/scripts/superfish/superfish.js
+0 2 0 7428 0 0
+/player/css/plugins/ui.daterangepicker.css
+0 1 0 5517 0 0
+/home
+0 2 0 47108 0 0
+/player/img/patterns/pattern05.png
+0 1 0 5975 0 0
+/player/img/forms/uploadButton.png
+0 1 0 3366 0 0
+/img/articals/1.jpg
+0 8 0 34446 0 0
+/player/js/flot/jquery.flot.resize.js
+0 1 0 2458 0 0
+/player/js/globalize/cultures/globalize.culture.de.js
+0 1 0 1867 0 0
+/player/css/plugins/antiscroll.css
+0 1 0 1073 0 0
+/player/js/antiscroll/antiscroll.js
+0 1 0 9563 0 0
+/player/js/dateRangepicker/date.js
+0 1 0 33223 0 0
+/images/slider/slides/940x400/mazar-shareef-hazrat-dr-ghulam-mustafa-khan-sahab-ra.jpg
+0 61 0 4370459 0 0
+/js/jquery.ui.totop.min.js
+0 119 0 134330 0 0
+/images/assets/images/header/breadcrumbhome.png
+0 1 0 1022 0 0
+/player/img/icons/14x14/home5.png
+0 1 0 2884 0 0
+/player/css/plugins/jquery.easy-pie-chart.css
+0 1 0 142 0 0
+/player/js/easypiechart/jquery.easy-pie-chart.js
+0 1 0 5855 0 0
+/player/img/patterns/pattern04.png
+0 1 0 3045 0 0
+/combo_box/select2-spinner.gif
+0 11 0 16641 0 0
+/images/assets/scripts/timepicker_addon/jquery-ui-timepicker-addon.js
+0 1 0 49627 0 0
+/images/assets/scripts/colorpicker/images/colorpicker_background.png
+0 2 0 3794 0 0
+/player/img/icons/14x14/lock3.png
+0 1 0 2871 0 0
+/player/img/forms/calendarArrows.png
+0 1 0 2919 0 0
+/player/img/colors/redNoise.jpg
+0 1 0 52718 0 0
+/images/assets/images/header/pagetitle-bg.png
+0 1 0 971 0 0
+/player/img/icons/14x14/magnifier.png
+0 1 0 2888 0 0
+/images/assets/scripts/colorbox/images/loading_background.png
+0 2 0 314 0 0
+/player/js/flot/jquery.flot.js
+0 1 0 106798 0 0
+/player/img/ajaxLoader/loader01.gif
+0 1 0 2711 0 0
+/player/css/plugins/fullcalendar.css
+0 1 0 11657 0 0
+/player/
+0 1 0 82430 0 0
+/images/assets/scripts/colorpicker/colorpicker.css
+0 2 0 6062 0 0
+/player/img/patterns/pattern03.png
+0 1 0 90030 0 0
+/player/img/player/volumeIcon.png
+0 1 0 2902 0 0
+/images/assets/scripts/uploadify/swfobject.js
+0 1 0 10220 0 0
+/player/ico/favicon.png
+0 1 0 2711 0 0
+/player/img/forms/radios.png
+0 1 0 4710 0 0
+/js/jquery.flexslider-min.js
+0 116 0 1632876 0 0
+/player/img/icons/24x24/heart.png
+0 1 0 3212 0 0
+/home/intro
+0 8 0 161780 0 0
+/images/assets/scripts/jquery.form.js
+0 1 0 22486 0 0
+/images/assets/images/notifications/information-balloon.png
+0 1 0 704 0 0
+/player/js/tipsy/jquery.tipsy.js
+0 1 0 9787 0 0
+/player/css/plugins/jquery.mCustomScrollbar.css
+0 1 0 5118 0 0
+/images/ajax.loading.gif
+0 23 0 344280 0 0
+/images/assets/scripts/colorbox/images/overlay.png
+0 2 0 364 0 0
+/player/js/chosen/chosen.jquery.js
+0 1 0 38294 0 0
+/player/img/player/repeat.png
+0 1 0 4307 0 0
+/images/assets/scripts/twipsy.js
+0 2 0 15778 0 0
+/player/img/patterns/pattern02.png
+0 1 0 59371 0 0
+/player/img/icons/14x14/file.png
+0 1 0 2870 0 0
+/player/img/menuIcons/collapseIconNoise.png
+0 1 0 2809 0 0
+/player/preview/avatar.jpg
+0 1 0 360427 0 0
+/player/img/icons/14x14/pad.png
+0 1 0 2856 0 0
+/images/assets/scripts/formvalidator/jquery.validationEngine-en.js
+0 2 0 14620 0 0
+/images/assets/scripts/jqueryui/jqueryui.css
+0 2 0 83746 0 0
+/player/js/jquery-1.8.3.js
+0 1 0 266057 0 0
+/images/assets/scripts/colorbox/jquery.colorbox-min.js
+0 2 0 19520 0 0
+/images/assets/images/header/1px_2.png
+0 1 0 913 0 0
+/images/slider/slides/940x400/al-mustafa-trust-hyderabad-masjid-e-ghaforiya.jpg
+0 60 0 3702906 0 0
+/player/img/patterns/pattern01.png
+0 1 0 165014 0 0
+/player/js/fancybox/jquery.fancybox.pack.js
+0 1 0 22643 0 0
+/images/carousel-arrows.png
+0 45 0 41720 0 0
+/player/js/application.js
+0 1 0 4148 0 0
+/player/img/icons/24x24/upload.png
+0 1 0 3068 0 0
+/images/assets/scripts/fullcalendar/fullcalendar.css
+0 2 0 21400 0 0
+/js/jquery.fitvids.js
+0 118 0 270500 0 0
+/player/img/icons/24x24/add.png
+0 1 0 3079 0 0
+/images/assets/scripts/formvalidator/jquery.validationEngine.js
+0 2 0 115734 0 0
+/player/img/icons/24x24/graph4.png
+0 1 0 2878 0 0
+/player/img/icons/14x14/box2.png
+0 1 0 2873 0 0
+/images/assets/images/notifications/cross.png
+0 2 0 952 0 0
+/player/img/icons/14x14/download4.png
+0 1 0 2884 0 0
+/css/colors/green.css
+0 108 0 303030 0 0
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+0 145 0 1872201 53 6
+# End Of Table - urls
+# -sites- (monthly)
+95.211.216.72
+0 1 1 23236 1 1374388599
+/
+125-209-123-252.multi.net.pk
+0 70 40 1204830 2 1374646778
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+host-62-24-252-133.as13285.net
+0 7 7 43219 0 0
+-
+msnbot-157-55-35-47.search.msn.com
+0 1 1 37 0 0
+-
+augere-113-203-190-129.qubee.com.pk
+0 30 2 43784 1 1374989260
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+msnbot-157-55-34-28.search.msn.com
+0 1 1 37 0 0
+-
+39.48.232.21
+0 1 0 0 0 0
+-
+31.220.227.144
+0 39 36 1021968 1 1373741333
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.178.127.215
+0 72 62 10159238 2 1374761051
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+39.48.112.20
+0 30 27 46870 1 1373459498
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+host-80-43-213-139.as13285.net
+0 25 24 322743 1 1374946609
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+msnbot-157-55-34-180.search.msn.com
+0 1 1 37 0 0
+-
+bzq-82-80-234-135.cablep.bezeqint.net
+0 8 2 197601 0 0
+-
+119.157.141.53
+0 70 49 1350739 1 1374647399
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+host223-33-static.38-79-b.business.telecomitalia.it
+0 5 0 280 0 0
+-
+69.171.245.5
+0 1 1 5398 0 0
+-
+69.171.245.6
+0 1 1 15240 0 0
+-
+110.93.239.108
+0 2 1 14253 1 1374762512
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+5e0dcd5b.bb.sky.com
+0 26 25 322796 1 1374334752
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.182.81.128
+0 26 25 322790 1 1373884674
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+msnbot-65-55-55-229.search.msn.com
+0 30 30 1110 0 0
+-
+crawl-66-249-75-171.googlebot.com
+0 14 14 518 0 0
+-
+41.52.114.248
+0 53 40 1102129 1 1373696030
+/
+augere-113-203-164-9.qubee.com.pk
+0 108 72 5739472 1 1374764139
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+64.246.178.34
+0 1 1 37 0 0
+-
+c22-112.blackberry.net
+0 1 1 4009 0 0
+-
+bzq-82-80-244-54.cablep.bezeqint.net
+0 6 2 21087 0 0
+-
+bzq-82-80-234-138.cablep.bezeqint.net
+0 1 0 1201 0 0
+-
+182.182.70.18
+0 26 25 322796 1 1374142127
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+173.252.102.113
+0 1 1 76908 0 0
+-
+173.252.102.115
+0 1 1 140152 0 0
+-
+173.252.102.118
+0 1 1 68239 0 0
+-
+msnbot-157-55-32-84.search.msn.com
+0 1 1 37 0 0
+-
+173.252.102.119
+0 1 1 5398 0 0
+-
+crawl-66-249-75-86.googlebot.com
+0 8 8 296 0 0
+-
+cpc14-benw10-2-0-cust140.16-2.cable.virginmedia.com
+0 57 52 688840 2 1374757569
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+baiduspider-180-76-5-187.crawl.baidu.com
+0 1 1 37 0 0
+-
+msnbot-157-55-32-114.search.msn.com
+0 1 1 37 0 0
+-
+ec2-54-227-59-255.compute-1.amazonaws.com
+0 1 1 0 1 1373123037
+/
+176.123.3.38
+0 7 1 30442 1 1374045679
+-
+180.76.6.213
+0 1 1 37 0 0
+-
+bzq-82-80-244-57.cablep.bezeqint.net
+0 2 1 6942 0 0
+-
+118.103.227.197
+0 30 27 351805 1 1374943785
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+69.171.229.114
+0 1 1 12786 1 1374093189
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+ufonegsm.net.42.83.84.1
+0 2 2 76336 0 0
+-
+173.252.101.112
+0 1 1 9000 0 0
+-
+173.252.101.113
+0 1 1 5398 0 0
+-
+173.252.101.117
+0 1 1 5398 0 0
+-
+173.252.101.118
+0 1 1 25020 1 1373872937
+/home/naat
+175.110.158.176
+0 36 31 524056 1 1374842955
+/home/naat
+110.93.238.152
+0 25 24 322145 1 1374757896
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+119.157.175.148
+0 110 83 1930640 2 1374830497
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+46.16.38.204
+0 47 41 1099150 1 1374763214
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+119.157.187.182
+0 30 27 350402 1 1373739208
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+fn152-static112.fariya.com
+0 40 37 1151063 1 1374685316
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+110.93.216.194
+0 949 725 41449350 6 1373872886
+/home/naat
+110.93.216.198
+0 692 400 7976947 7 1374638319
+/home/books/6
+173.252.73.117
+0 1 1 190211 0 0
+-
+c22-119.blackberry.net
+0 16 13 711728 0 0
+-
+38.100.21.64
+0 11 3 62852 1 1373978705
+-
+173.252.73.119
+0 1 1 140152 0 0
+-
+augere-113-203-177-211.qubee.com.pk
+0 26 25 322796 1 1374266995
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.178.57.118
+0 69 50 1333542 1 1374892582
+/home/contact
+msnbot-157-55-35-106.search.msn.com
+0 2 2 74 0 0
+-
+173.252.100.117
+0 1 1 76908 0 0
+-
+ool-ad0355e8.dyn.optonline.net
+0 30 27 350512 1 1374104108
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+180.76.6.15
+0 1 1 37 0 0
+-
+39.48.128.34
+0 113 85 1614381 1 1373392276
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+c-98-198-2-235.hsd1.tx.comcast.net
+0 26 25 322756 1 1373050875
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+a03-09-04.opera-mini.net
+0 25 24 321713 1 1373639925
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+c22-115.blackberry.net
+0 4 4 71283 1 1374780507
+/
+bzq-82-80-234-142.cablep.bezeqint.net
+0 4 2 71684 0 0
+-
+173.252.110.113
+0 1 1 177454 0 0
+-
+hosted-by.leaseweb.com
+0 3 3 46687 1 1374322397
+/
+crawl-66-249-72-86.googlebot.com
+0 2 2 74 0 0
+-
+131.228.29.33
+0 1 0 1201 0 0
+-
+131.228.29.35
+0 1 0 1201 0 0
+-
+baiduspider-180-76-5-157.crawl.baidu.com
+0 1 1 37 0 0
+-
+bzq-82-80-234-134.cablep.bezeqint.net
+0 4 3 20140 0 0
+-
+119.155.115.0
+0 58 27 345467 1 1375025551
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+119.155.2.62
+0 49 18 993679 2 1374780967
+/
+spider-199-21-99-90.yandex.com
+0 22 22 814 0 0
+-
+ec2-50-19-202-104.compute-1.amazonaws.com
+0 1 1 23951 1 1373276761
+/
+hamdard.edu.pk
+0 42 37 1067393 1 1373503635
+/
+131.228.29.70
+0 8 7 190421 1 1374847010
+/
+crawl-66-249-73-216.googlebot.com
+0 2 2 74 0 0
+-
+bzq-82-80-244-53.cablep.bezeqint.net
+0 1 1 1816 0 0
+-
+crawl-66-249-72-171.googlebot.com
+0 1 1 37 0 0
+-
+bzq-82-80-234-137.cablep.bezeqint.net
+0 3 1 3424 0 0
+-
+131.228.29.96
+0 6 5 223002 0 0
+-
+131.228.29.98
+0 1 0 1201 0 0
+-
+39.41.139.215
+0 38 36 1136869 1 1374913807
+/
+crawl-198-27-66-80.meanpathbot.com
+0 1 1 37 0 0
+-
+119.157.244.134
+0 62 60 1604240 1 1374875557
+/
+182.183.195.218
+0 25 24 322178 1 1374945053
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+119.155.28.166
+0 26 25 322790 1 1374481305
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+198.72.106.181
+0 2 2 217060 0 0
+-
+198.72.106.182
+0 2 2 354908 0 0
+-
+182.182.71.218
+0 26 25 322762 1 1373435466
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+69.171.247.113
+0 1 1 68239 0 0
+-
+69.171.247.114
+0 1 1 76908 0 0
+-
+46-236-95-177.customer.t3.se
+0 1 1 37 0 0
+-
+static-86-51-163-24.mobily.com.sa
+0 46 37 1157621 1 1373962613
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+216.177.129.48
+0 1 1 4009 0 0
+-
+208.73.208.170
+0 3 3 0 3 1374548189
+/
+bzq-82-80-244-56.cablep.bezeqint.net
+0 5 3 21114 0 0
+-
+39.48.231.49
+0 84 56 1381054 1 1374523950
+/home/books/1
+msnbot-157-56-92-150.search.msn.com
+0 3 3 111 0 0
+-
+204.12.208.234
+0 1 1 37 0 0
+-
+lwdc.br05.gi9-48.host4.24187.americanis.net
+0 2 2 47812 1 1373506464
+/
+94.202.211.191
+0 41 37 1047013 1 1373596565
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+115-167-126-226.wi-tribe.net.pk
+0 36 31 523194 1 1374535702
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+crawl-66-249-73-185.googlebot.com
+0 5 5 185 0 0
+-
+139.190.252.155
+0 35 31 511607 1 1374649926
+/home/naat
+msnbot-157-56-93-40.search.msn.com
+0 8 8 296 0 0
+-
+39.48.63.125
+0 1 1 4009 0 0
+-
+69.31.108.6
+0 70 49 4018785 1 1374919661
+/
+bzq-82-80-244-59.cablep.bezeqint.net
+0 4 0 4804 0 0
+-
+39.48.98.186
+0 108 58 1667986 1 1374762686
+/
+65.49.2.187
+0 35 34 994281 1 1373511590
+/
+110.39.7.97
+0 67 62 1486195 1 1374299901
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+charlie510.startdedicated.com
+0 2 2 24017 1 1372927664
+/
+msnbot-157-55-32-77.search.msn.com
+0 5 5 185 0 0
+-
+out-ar113.tfbnw.net
+0 1 1 76908 0 0
+-
+tw16-static18.tw1.com
+0 56 46 1297981 1 1374806799
+/home/contact
+202.46.62.119
+0 1 1 23551 1 1374710734
+/
+dsl-173-206-7-40.tor.primus.ca
+0 34 32 489543 1 1374005278
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+39.32.212.23
+0 26 25 322756 1 1373542713
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+msnbot-157-55-35-90.search.msn.com
+0 2 2 74 0 0
+-
+103.246.38.196
+0 2 2 35902 1 1373962612
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+139.190.146.25
+0 35 34 994328 1 1373821121
+/
+130.185.109.210
+0 1 1 37 0 0
+-
+131.228.29.2
+0 7 6 197698 0 0
+-
+bravo952.startdedicated.com
+0 2 2 23776 1 1375059170
+/
+39.48.139.251
+0 37 34 743077 1 1373376179
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+42.83.84.2
+0 6 6 114800 0 0
+-
+42.83.84.4
+0 7 7 176425 0 0
+-
+42.83.84.5
+0 1 1 5665 0 0
+-
+bzq-82-80-234-141.cablep.bezeqint.net
+0 5 1 14459 0 0
+-
+42.83.84.6
+0 3 3 66780 1 1374754442
+/
+119.155.10.6
+0 46 1 27589 1 1372742814
+/
+119.155.124.91
+0 28 26 337507 1 1374679421
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+66.119.41.34
+0 1 1 23551 1 1374529831
+/
+39.52.53.118
+0 26 25 322790 1 1374380198
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+206-225-83-83.dedicated.codero.net
+0 2 2 42023 1 1373988694
+/home/contact
+augere-223-29-237-202-qubee.com.pk
+0 25 24 321719 1 1372758933
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+119.157.232.11
+0 67 62 1487819 3 1374761713
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+toroon63-1242492175.sdsl.bell.ca
+0 5 0 280 0 0
+-
+198.72.102.181
+0 1 1 140152 0 0
+-
+198.72.102.182
+0 1 1 76908 0 0
+-
+198.72.102.183
+0 2 2 208391 0 0
+-
+198.72.102.184
+0 2 2 245693 0 0
+-
+bzq-62-219-8-231.static.dcenter.bezeqint.net
+0 34 29 516338 1 1374899424
+/books/book_front_page/
+s18-04-03.opera-mini.net
+0 25 24 321713 1 1373611156
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+50-57-68-9.static.cloud-ips.com
+0 1 1 23951 1 1373503321
+/
+bzq-82-80-244-52.cablep.bezeqint.net
+0 5 2 85909 0 0
+-
+rrcs-74-62-205-194.west.biz.rr.com
+0 5 0 280 0 0
+-
+crawl-198-27-82-145.meanpathbot.com
+0 1 1 37 0 0
+-
+static-ip-85-25-154-14.inaddr.ip-pool.com
+0 1 1 23980 1 1373645338
+/
+bzq-82-80-234-136.cablep.bezeqint.net
+0 3 0 2281 0 0
+-
+ec2-23-23-57-159.compute-1.amazonaws.com
+0 25 25 485957 1 1374528549
+/home/contact
+host65-255-static.28-79-b.business.telecomitalia.it
+0 10 0 560 0 0
+-
+tmbg.duckduckgo.com
+0 1 1 23980 1 1372978690
+/
+50-57-68-10.static.cloud-ips.com
+0 1 1 12598 1 1373596566
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+69.171.242.112
+0 1 1 9000 0 0
+-
+69.171.242.113
+0 3 3 105542 1 1373865814
+/
+69.171.242.115
+0 2 2 18000 0 0
+-
+crawl-66-249-74-49.googlebot.com
+0 1 1 37 0 0
+-
+69.171.242.117
+0 1 1 5398 0 0
+-
+69.171.242.118
+0 2 2 85908 0 0
+-
+46.165.230.206
+0 1 1 23236 1 1374131662
+/
+69.22.184.179
+0 74 43 1225126 1 1374766429
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+mail.maplin.co.uk
+0 29 25 326824 1 1374899676
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+puppet.uk.yav4.com
+0 1 1 4009 0 0
+-
+bzq-82-80-244-55.cablep.bezeqint.net
+0 4 1 181057 0 0
+-
+bzq-82-80-234-139.cablep.bezeqint.net
+0 2 1 3050 0 0
+-
+msnbot-65-55-52-111.search.msn.com
+0 3 3 111 0 0
+-
+static.39.95.76.144.clients.your-server.de
+0 1 1 37 0 0
+-
+www.whois.sc
+0 1 1 37 0 0
+-
+host80-198-static.227-95-b.business.telecomitalia.it
+0 5 0 280 0 0
+-
+182.182.41.174
+0 26 25 322922 1 1374093189
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.178.89.239
+0 26 25 322796 1 1374092205
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+crawl-198-27-66-24.meanpathbot.com
+0 1 1 37 0 0
+-
+119.157.219.102
+0 81 71 9819686 1 1373998092
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.179.117.240
+0 62 48 1329467 1 1374770491
+/
+bzq-82-80-244-58.cablep.bezeqint.net
+0 3 0 3603 0 0
+-
+5.135.125.177
+0 5 1 28636 1 1373721608
+-
+5.135.125.178
+0 5 1 28212 1 1374126139
+-
+106.79.105.100
+0 169 47 1349698 1 1374759899
+/
+baiduspider-180-76-5-62.crawl.baidu.com
+0 1 1 37 0 0
+-
+182.179.120.121
+0 57 55 713479 1 1374761207
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+125-209-123-243.multi.net.pk
+0 247 194 46624368 3 1373876618
+/player/player.html
+baiduspider-180-76-5-180.crawl.baidu.com
+0 1 1 37 0 0
+-
+27-126-119-67.adachi.ne.jp
+0 66 42 1262739 1 1375025807
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+69.58.178.59
+0 12 8 118224 1 1373007739
+/home/intro
+131.228.29.102
+0 6 6 182334 0 0
+-
+augere113-203-130-149.qubee.com.pk
+0 37 35 1008418 1 1373198168
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+39.48.227.95
+0 2 1 4009 0 0
+-
+131.228.29.110
+0 7 6 207610 0 0
+-
+131.228.29.111
+0 4 4 133342 0 0
+-
+131.228.29.112
+0 1 0 1201 0 0
+-
+131.228.29.118
+0 1 0 1201 0 0
+-
+111.119.174.109
+0 28 26 337507 1 1374862138
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+182.183.185.121
+0 25 24 321713 1 1373820461
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+augere-113-203-163-123.qubee.com.pk
+0 25 24 322178 1 1374760292
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+202.14.71.136
+0 33 25 343235 1 1374037797
+/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+131.228.29.121
+0 1 0 1201 0 0
+-
+msnbot-157-56-93-186.search.msn.com
+0 6 6 222 0 0
+-
+crawl-198-27-66-82.meanpathbot.com
+0 1 1 37 0 0
+-
+bzq-82-80-234-140.cablep.bezeqint.net
+0 4 1 143755 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+180.76.6.213
+0 1 1 37 0 0
+-
+bravo952.startdedicated.com
+0 2 2 23776 1 1375059170
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.drghulammustafa.com/combo_box/select2.css
+1 3
+- (Direct Request)
+0 652
+http://drghulammustafa.com/index.php/admin/login
+1 3
+http://drghulammustafa.com/home/books/1
+1 16
+http://drghulammustafa.com/home/books/2
+1 7
+http://drghulammustafa.com/home/books/3
+1 17
+http://drghulammustafa.com/home/books/5
+1 10
+http://drghulammustafa.com/home/books/6
+1 27
+http://drghulammustafa.com/js/ddlevelsmenu.js
+1 1
+http://www.drghulammustafa.com/home/books/1
+1 5
+http://www.drghulammustafa.com/home/books/3
+1 1
+http://www.drghulammustafa.com/home/books/4
+1 1
+http://www.drghulammustafa.com/home/books/5
+1 3
+http://localhost/dgmk/
+0 86
+http://drghulammustafa.com/robots.txt
+1 4
+http://drghulammustafa.com/index.php/admin/articles
+1 8
+http://drghulammustafa.com/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+1 1348
+http://drghulammustafa.com/book/list/dr-ghulam-mustafa-khan-sahab-ra.html
+1 1
+http://drghulammustafa.com/home
+1 5
+http://netcomber.com/drghulammustafa.com
+1 2
+http://drghulammustafa.com/player/
+1 126
+http://m.facebook.com/l.php
+0 1
+http://localhost/dgmk/home/books/6
+0 11
+http://drghulammustafa.com/player/player.html
+1 4
+http://drghulammustafa.com/js/jquery.easing.1.3.js
+1 1
+http://www.google.com.sa/url
+0 1
+http://www.drghulammustafa.com/home/naat
+1 34
+http://www.hdgmk.com/newhdgmk/main.htm
+0 48
+http://www.bing.com/search
+0 1
+http://drghulammustafa.com/combo_box/select2.css
+1 1
+http://drghulammustafa.com/home/artical_detail/1
+1 13
+http://localhost/dgmk/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+0 2
+http://drghulammustafa.com/wp-login.php
+1 30
+http://drghulammustafa.com/
+1 1540
+http://localhost/dgmk/home/naat
+0 54
+http://drghulammustafa.com/index.php/admin/dashboard
+1 27
+http://www.drghulammustafa.com/css/style.css
+1 118
+http://drghulammustafa.com/css/flexslider.css
+1 4
+http://www.google.com.pk/url
+0 7
+http://www.google.com/url
+0 1
+http://drghulammustafa.com/home/intro
+1 14
+http://drghulammustafa.com/admin
+1 4
+http://drghulammustafa.com/home/main
+1 32
+http://localhost/08-03-2013/index
+0 2
+http://drghulammustafa.com/js/jquery.jcarousel.min.js
+1 1
+http://drghulammustafa.com/css/style.css
+1 70
+http://www.drghulammustafa.com/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+1 105
+http://www.drghulammustafa.com/books/book_front_page/
+1 2
+http://localhost/08-03-2013/
+0 30
+http://localhost/dgmk/home
+0 4
+http://www.drghulammustafa.com/
+1 384
+http://drghulammustafa.com/home/artical
+1 102
+http://www.drghulammustafa.com/home/intro
+1 1
+http://www.drghulammustafa.com/home/artical
+1 5
+http://drghulammustafa.com/home/contact
+1 50
+http://www.netcraft.com/survey/
+0 1
+http://www.drghulammustafa.com/css/flexslider.css
+1 10
+http://www.drghulammustafa.com/home/contact
+1 1
+https://www.google.com.pk/
+0 1
+http://drghulammustafa.com/index.php/admin/admin_login
+1 90
+http://netcomber.com
+0 2
+http://drghulammustafa.com/home/naat
+1 473
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+0 27
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Opera/9.80 (Windows NT 6.1; U; en-US) Presto/2.7.62 Version/11.01
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 26
+Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; EVOTAB Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 26
+Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 109
+Mozilla/5.0 (compatible; WBSearchBot/1.1; +http://www.warebay.com/bot.html)
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:9.0a2) Gecko/20111101 Firefox/9.0a2
+0 1
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.01
+0 87
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 7
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 26
+Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+0 217
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 46
+Mozilla/5.0 (X11; U; Linux x86; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Epiphany/2.30.6 Safari/534.7
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+0 39
+Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; FDM; .NET CLR 1.1.4322)
+0 1
+NokiaC1-01/2.0 (05.45) Profile/MIDP-2.1 Configuration/CLDC-1.1
+0 19
+PagesInventory (robot http://www.pagesinvenotry.com)
+0 1
+BlackBerry8900/4.6.1.133 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179
+0 21
+Mozilla/5.0 (Windows NT 5.1; rv:20.0) Gecko/20100101 Firefox/20.0
+0 41
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 11
+Mozilla/5.0 (X11; U; FreeBSD amd64; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Safari/531.2+ Epiphany/2.30.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 117
+Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 72
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 169
+Opera/9.80 (Series 60; Opera Mini/6.5.29700/30.3442; U; en) Presto/2.8.119 Version/11.10
+0 25
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727)
+0 46
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 53
+Mozilla/5.0
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.16 (KHTML, like Gecko) Chrome/20.0.1207.0 PlayFreeBrowser/2.3.0.1 Safari/537.16
+0 32
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 33
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 27
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 122
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 35
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+0 1
+Influencebot/0.9; (Automatic classification of websites; http://www.influencebox.com/; info@influencebox.com)Mozilla/5.0 (X11
+0 1
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20100101 Firefox/22.0
+0 70
+Opera/9.80 (Windows NT 6.1; U; en-US) Presto/2.9.181 Version/12.00
+0 1
+(null)
+0 13
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+0 1419
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 28
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x4.90)
+0 1
+Mozilla/6.0 (compatible)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 171
+Mozilla/5.0 (Series40; NokiaX2-02/10.91; Profile/MIDP-2.1 Configuration/CLDC-1.1) Gecko/20100401 S40OviBrowser/1.0.2.26.11
+0 45
+Mozilla/5.0 (Windows NT 6.1; rv:20.0) Gecko/20100101 Firefox/20.0
+0 42
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.15
+0 81
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+0 34
+Mozilla/5.0 (compatible; MJ12bot/v1.4.3; http://www.majestic12.co.uk/bot.php?+)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+0 30
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 69
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW; rv:1.9b4) Gecko/2008030714 Firefox/3.0b4
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 29
+Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 25
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+0 30
+NCBot (http://netcomber.com?st=ba : tool for finding true domain owners) Queries/complaints: bot@netcomber.com
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.35 (KHTML, like Gecko) Chrome/27.0.1448.0 Safari/537.35
+0 35
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 6
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-gb; SHV-E160L Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 155
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 64
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 33
+NCBot (http://netcomber.com : tool for finding true domain owners) Queries/complaints: bot@netcomber.com
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+0 422
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 7
+ScreenerBot Crawler Beta 2.0 (+http://www.ScreenerBot.com)
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 37
+Mozilla/5.0 (Linux; U; Android 4.0.3; en-pk; HTC_Desire_C Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 77
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+0 10
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; BTRS98473; InfoPath.3)
+0 58
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 121
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 7
+Mozilla/5.0 (compatible)
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+0 107
+Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B147 Safari/8536.2
+0 25
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.2
+0 25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+0 584
+Lynx/2.8.6rel.4 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8g
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-N8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 26
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.2/30.3442; U; en) Presto/2.8.119 Version/11.10
+0 25
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.7.62 Version/11.00Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-US) Apple
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/28.0.1500.12 Mobile/10B3
+0 66
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko/20061208 Firefox/5.0 Opera 11.11
+0 1
+# End Of Table - agents
+# -search strings- 
+http://drghulammustafa.com/live/jalsa/al-mustafa-trust-hyderabad-2013.html
+3
+dr ghulam mustafa
+2
+http://drghulammustafa.com/
+1
+drghulammustafa.com
+3
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

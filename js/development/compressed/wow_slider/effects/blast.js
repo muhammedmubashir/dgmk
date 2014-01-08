@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------------
+// http://wowslider.com/
+// JavaScript Wow Slider is a free software that helps you easily generate delicious 
+// slideshows with gorgeous transition effects, in a few clicks without writing a single line of code.
+// Last updated: 2011-09-27
+//
+//***********************************************
+// Obfuscated by Javascript Obfuscator
+// http://javascript-source.com
+//***********************************************
+function ws_blast(options,images,aCont){var $=jQuery;var boxSize=Math.min(options.width,options.height)/3;var distance=1;var columns=Math.round(options.width/boxSize);var rows=Math.round(options.height/boxSize);var $partCont=$("<div></div>");aCont.css({overflow:"visible"}).append($partCont);$partCont.css({position:"absolute",left:(options.outWidth-options.width)/2+"px",top:(options.outHeight-options.height)/2+"px",width:options.width+"px",height:options.height+"px"});var partsOut=[];var partsIn=[];for(var index=0;index<columns*rows;index++){var i=index%columns;var j=Math.floor(index/columns);var left0=Math.round(options.width*i/columns);var top0=Math.round(options.height*j/rows);var left1=Math.round(options.width*(i+1)/columns);var top1=Math.round(options.height*(j+1)/rows);$([partsIn[index]=document.createElement("div"),partsOut[index]=document.createElement("div")]).css({position:"absolute",width:left1-left0,height:top1-top0,'background-position':-left0+"px -"+top0+"px"}).appendTo($partCont);}partsOut=$(partsOut);partsIn=$(partsIn);function setPos(parts,random,animate){var pWidth=options.width/columns;var pHeight=options.width/rows;var wpos={left:$(window).scrollLeft(),top:$(window).scrollTop(),width:$(window).width(),height:$(window).height()};$(parts).each(function(index){if(random){var left0=distance*options.width*(2*Math.random()-1)+options.width/2;var top0=distance*options.height*(2*Math.random()-1)+options.height/2;var gpos=$partCont.offset();gpos.left+=left0;gpos.top+=top0;if(gpos.left<wpos.left){left0-=gpos.left+wpos.left;}if(gpos.top<wpos.top){top0-=gpos.top+wpos.top;}if(gpos.left>wpos.left+wpos.width-pWidth){left0-=gpos.left-(wpos.left+wpos.width)+pWidth;}if(gpos.top>wpos.top+wpos.height-pHeight){top0-=gpos.top-(wpos.top+wpos.height)+pHeight;}}else{var left0=Math.round(options.width*(index%columns)/columns);var top0=Math.round(options.height*Math.floor(index/columns)/rows);}if(animate){$(this).animate({left:left0,top:top0},{queue:false,duration:options.duration});}else{$(this).css({left:left0,top:top0});}});}setPos(partsOut);setPos(partsIn,true);this.go=function(new_index,curIdx){$partCont.show();$(partsOut).stop(1).css({opacity:1,'z-index':3,'background-image':"url(\""+images.get(curIdx).src+"\")"});$(partsIn).stop(1).css({opacity:0,'z-index':2,'background-image':"url(\""+images.get(new_index).src+"\")"});setPos(partsIn,false,true);$(partsIn).animate({opacity:1},{queue:false,easing:"easeInOutExpo",duration:options.duration,complete:function(){$(images.get(curIdx)).hide();}});setPos(partsOut,true,true);$(partsOut).animate({opacity:0},{queue:false,easing:"easeInOutExpo",duration:options.duration,complete:function(){$(images.get(new_index)).show();for(var i=0;i<images.length;i++){if(new_index!=i){$(images.get(i)).hide();}}$partCont.hide();}});var tmp=partsIn;partsIn=partsOut;partsOut=tmp;return new_index;};}// -----------------------------------------------------------------------------------
+// http://wowslider.com/
+// JavaScript Wow Slider is a free software that helps you easily generate delicious 
+// slideshows with gorgeous transition effects, in a few clicks without writing a single line of code.
+// Last updated: 2011-09-27
+//
+//***********************************************
+// Obfuscated by Javascript Obfuscator
+// http://javascript-source.com
+//***********************************************
+jQuery("#wowslider-container1").wowSlider({effect:"blast",prev:"",next:"",duration:10*100,delay:50*100,outWidth:998,outHeight:480,width:998,height:480,autoPlay:true,stopOnHover:true,loop:false,bullets:true,caption:true,controls:true});
